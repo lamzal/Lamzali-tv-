@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lamzali tv</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #101820;
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #f2aa4c;
+      padding: 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    .content {
+      padding: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 0.75rem;
+      text-align: center;
+    }
+    th {
+      background-color: #222;
+    }
+    a {
+      color: #f2aa4c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lamzali tv</h1>
+    <script>console.log("Header loaded successfully");</script>
+  </header>
+  <div class="content">
+    <p>مرحبًا بك! هنا تجد جدول المباريات وروابط رسمية للمشاهدة.</p>
+    <script>console.log("Content section loaded");</script>
+    <table>
+      <thead>
+        <tr>
+          <th>الفريقان</th>
+          <th>الوقت</th>
+          <th>الرابط الرسمي</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>برشلونة × ريال مدريد</td>
+          <td>22:00 بتوقيت مكة</td>
+          <td><a href="https://www.beinsports.com/ar/" target="_blank">beIN Sports</a></td>
+        </tr>
+        <script>console.log("Match 1 row rendered");</script>
+        <tr>
+          <td>الهلال × الاتحاد</td>
+          <td>20:30 بتوقيت مكة</td>
+          <td><a href="https://ssc.sa/" target="_blank">SSC Sports</a></td>
+        </tr>
+        <script>console.log("Match 2 row rendered");</script>
+      </tbody>
+    </table>
+    <script>console.log("Table rendered");</script>
+  </div>
+  <script>console.log("Page fully loaded");</script>
+</body>
+</html><!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lamzali tv</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #101820;
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #f2aa4c;
+      padding: 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    .content {
+      padding: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 0.75rem;
+      text-align: center;
+    }
+    th {
+      background-color: #222;
+    }
+    a {
+      color: #f2aa4c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lamzali tv</h1>
+    <script>console.log("Header loaded successfully");</script>
+  </header>
+  <div class="content">
+    <p>مرحبًا بك! هنا تجد جدول المباريات وروابط رسمية للمشاهدة.</p>
+    <script>console.log("Content section loaded");</script>
+    <table>
+      <thead>
+        <tr>
+          <th>الفريقان</th>
+          <th>الوقت</th>
+          <th>الرابط الرسمي</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>برشلونة × ريال مدريد</td>
+          <td>22:00 بتوقيت مكة</td>
+          <td><a href="https://www.beinsports.com/ar/" target="_blank">beIN Sports</a></td>
+        </tr>
+        <script>console.log("Match 1 row rendered");</script>
+        <tr>
+          <td>الهلال × الاتحاد</td>
+          <td>20:30 بتوقيت مكة</td>
+          <td><a href="https://ssc.sa/" target="_blank">SSC Sports</a></td>
+        </tr>
+        <script>console.log("Match 2 row rendered");</script>
+      </tbody>
+    </table>
+    <script>console.log("Table rendered");</script>
+  </div>
+  <script>console.log("Page fully loaded");</script>
+</body>
+</html><!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lamzali tv</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #101820;
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #f2aa4c;
+      padding: 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    .content {
+      padding: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 0.75rem;
+      text-align: center;
+    }
+    th {
+      background-color: #222;
+    }
+    a {
+      color: #f2aa4c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lamzali tv</h1>
+    <script>console.log("Header loaded successfully");</script>
+  </header>
+  <div class="content">
+    <p>مرحبًا بك! هنا تجد جدول المباريات وروابط رسمية للمشاهدة.</p>
+    <script>console.log("Content section loaded");</script>
+    <table>
+      <thead>
+        <tr>
+          <th>الفريقان</th>
+          <th>الوقت</th>
+          <th>الرابط الرسمي</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>برشلونة × ريال مدريد</td>
+          <td>22:00 بتوقيت مكة</td>
+          <td><a href="https://www.beinsports.com/ar/" target="_blank">beIN Sports</a></td>
+        </tr>
+        <script>console.log("Match 1 row rendered");</script>
+        <tr>
+          <td>الهلال × الاتحاد</td>
+          <td>20:30 بتوقيت مكة</td>
+          <td><a href="https://ssc.sa/" target="_blank">SSC Sports</a></td>
+        </tr>
+        <script>console.log("Match 2 row rendered");</script>
+      </tbody>
+    </table>
+    <script>console.log("Table rendered");</script>
+  </div>
+  <script>console.log("Page fully loaded");</script>
+</body>
+</html>
